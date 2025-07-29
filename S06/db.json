@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "username": "Aditya Sharma",
+            "password": 12345,
+            "gender": "male",
+            "city": "hyd"
+        },
+        {
+            "username": "Priya Jaiswal",
+            "password": 12345,
+            "gender": "female",
+            "city": "pune"
+        },
+        {
+            "username": "aditya verma",
+            "password": 12345,
+            "gender": "male",
+            "city": "delhi"
+        },
+        {
+            "username": "xyz",
+            "password": 12345,
+            "gender": "male",
+            "city": "delhi"
+        }
+    ]
+}
